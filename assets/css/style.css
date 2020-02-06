@@ -13,7 +13,7 @@
 nav .brand-logo {
     font-family: myFont;
     font-size: 50px;
-    margin-top:-12px;
+    margin-top: 7px;
     margin-left: 50px;
     color: yellow;
 }
@@ -62,7 +62,7 @@ li {
   font-size: 20px;
   font-weight: bolder;
   padding: 3px;
-  font-family: cursive;
+  font-family: sans-serif;
   /* max-width: 300px;
   margin-left: 360px; */
 
@@ -82,11 +82,11 @@ li {
 
 h4 {
   color: white;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 
 .flow-text {
-  font-family: cursive;
+  font-family: sans-serif;
 
 }
 
