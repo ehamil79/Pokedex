@@ -29,6 +29,6 @@ Left panel on the page displays few pokemon cards pre-loaded from Poke API. When
 
 
 ### Rough Breakdown of Tasks
-* Front-end development  -  Eric , Christian
-* Back-end developement - Dock, Pradnya
-* Github merging - Pradnya
+* Front-end development  -  Eric & Christian
+* Back-end developement - Dock & Pradnya
+* Github merging - Eric & Pradnya
