@@ -1,10 +1,10 @@
-# Project-1
+# Pokedex
 ##### This is a course project for Georgia Tech Full Stack Web Development Bootcamp
 
 
 ## Details
 ### Project Title  
-[Pokedex](https://ehamil79.github.io/Project-1/)
+[Pokedex](https://ehamil79.github.io/Pokedex/)
 
 ### Team Members 
 * Eric Hamil, 
@@ -16,7 +16,7 @@
 This is a fun project which allows user to select a pokemon character and view all the availalble stats about it.You can begin to build a deck of cards by clicking on 'Add to Favorite' button. Project data is saved in [Firebase](https://firebase.google.com) database,so when you revisit the page your cards are still available.
 Left panel on the page displays few pokemon cards pre-loaded from Poke API. When you click on any of the card, respective GIF and stats are displayed on the page. A graph of base stats is also displayed on the page.
 ##### Technologies Used:`HTML`,`CSS`,`JavaScript`,`JQuery`,`Firebase database`.
-[Check the project](https://ehamil79.github.io/Project-1/)
+[Check the project](https://ehamil79.github.io/Pokedex/)
 
 
 ### Sketch of Final Product 
